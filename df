@@ -1,0 +1,140 @@
+[33mcommit 8c04d1fad6bb346b9f9d5dfdbb7a12065177610c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAshleshBhunjun[m[33m)[m
+Author: Ashlesh Bhunjun <bhunjun@ualberta.ca>
+Date:   Thu Sep 26 18:48:49 2024 -0600
+
+    Added colour to Octagon
+
+[33mcommit fdc402bce898b6933107defa437e02916235362c[m
+Merge: ef7f4d2 4f244b7
+Author: Ashlesh Bhunjun <bhunjun@ualberta.ca>
+Date:   Thu Sep 26 18:44:41 2024 -0600
+
+    Merge branch 'main' of https://github.com/CMPUT301oblong/oblong into AshleshBhunjun
+
+[33mcommit ef7f4d2a86e043ba4b269c5f264f68821db0f7c7[m
+Author: Ashlesh Bhunjun <bhunjun@ualberta.ca>
+Date:   Thu Sep 26 18:44:16 2024 -0600
+
+    Anything
+
+[33mcommit 4f244b7368abf4ee74d9b8cbf237dc4c3691785f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3be5d06 3864e40
+Author: Mike Kabbabe <83938405+33Mic@users.noreply.github.com>
+Date:   Thu Sep 26 18:40:09 2024 -0600
+
+    Merge pull request #2 from CMPUT301oblong/kayda
+    
+    added Rectangle class
+
+[33mcommit 3be5d06fba8761530e5a34723656d6d2f05023af[m
+Merge: 314cb01 9028779
+Author: kmseutter <kmseutter@gmail.com>
+Date:   Thu Sep 26 18:39:56 2024 -0600
+
+    Merge pull request #5 from CMPUT301oblong/mike
+    
+    I added a Triangle pls pull me.
+
+[33mcommit 314cb01af25177798049cf1a58baf05433d3c44c[m
+Merge: c5fae75 e2c3e04
+Author: Majd Eissa <125160989+emajiid@users.noreply.github.com>
+Date:   Thu Sep 26 18:39:39 2024 -0600
+
+    Merge pull request #4 from CMPUT301oblong/Majd
+    
+    Created Circle.java
+
+[33mcommit e2c3e04c11a887fd1b7e90c000346394bc1340a3[m[33m ([m[1;31morigin/Majd[m[33m)[m
+Merge: 1143257 c5fae75
+Author: Majd Eissa <125160989+emajiid@users.noreply.github.com>
+Date:   Thu Sep 26 18:38:48 2024 -0600
+
+    Merge branch 'main' into Majd
+
+[33mcommit c5fae755ad55960eb12d99e5cc45b57f49cbf401[m
+Merge: 1a147fa 219d7b3
+Author: Kylemcamp <108697900+Kylemcamp@users.noreply.github.com>
+Date:   Thu Sep 26 18:37:14 2024 -0600
+
+    Merge pull request #3 from CMPUT301oblong/AshleshBhunjun
+    
+    Ashlesh Added Rhombus class
+
+[33mcommit 1a147fa7e388b3abe08aa27c9947dba4c485e031[m
+Merge: 5ad83a9 b9b8670
+Author: ashlesh-bhunjun <151475224+ashlesh-bhunjun@users.noreply.github.com>
+Date:   Thu Sep 26 18:37:00 2024 -0600
+
+    Merge pull request #1 from CMPUT301oblong/kyle
+    
+    Kyle - Octagon
+
+[33mcommit 902877904614566901a412012a0daf39c927dd73[m[33m ([m[1;31morigin/mike[m[33m)[m
+Author: Mike Kabbabe <83938405+33Mic@users.noreply.github.com>
+Date:   Thu Sep 26 18:35:01 2024 -0600
+
+    Created a Triangle
+
+[33mcommit b9b8670c624d7afb29d058bdc7a10678f361be5b[m[33m ([m[1;31morigin/kyle[m[33m)[m
+Author: Kyle Campbell <kmcampb1@ualberta.ca>
+Date:   Thu Sep 26 18:32:13 2024 -0600
+
+    added octagon
+
+[33mcommit 219d7b3df735389514103f35469121a079588945[m[33m ([m[1;31morigin/AshleshBhunjun[m[33m)[m
+Author: Ashlesh Bhunjun <bhunjun@ualberta.ca>
+Date:   Thu Sep 26 18:32:12 2024 -0600
+
+    Added Rhombus class
+
+[33mcommit 4e27509d68be39603bc1c6bd3b697ecc54ff30fe[m
+Author: Mike Kabbabe <83938405+33Mic@users.noreply.github.com>
+Date:   Thu Sep 26 18:32:01 2024 -0600
+
+    Revert "Added a new shape (circle)"
+    
+    This reverts commit 5ad83a9894d91bcbc3808a587378f361d23c9806.
+
+[33mcommit 7200a7724ce188363b2567bca88452328556fd2c[m
+Author: Kyle Campbell <kmcampb1@ualberta.ca>
+Date:   Thu Sep 26 18:31:40 2024 -0600
+
+    added octagon class
+
+[33mcommit 5ad83a9894d91bcbc3808a587378f361d23c9806[m
+Author: Mike Kabbabe <83938405+33Mic@users.noreply.github.com>
+Date:   Thu Sep 26 18:30:44 2024 -0600
+
+    Added a new shape (circle)
+
+[33mcommit 3864e40dc2ddb08610bbb7fb598e7e69eb73f53c[m[33m ([m[1;31morigin/kayda[m[33m)[m
+Author: Kayda Seutter <kayda@ualberta.ca>
+Date:   Thu Sep 26 18:28:29 2024 -0600
+
+    added Rectangle class
+
+[33mcommit 114325759cee9dc0ac721a85cbbbc0d227daa3e3[m
+Author: emajiid <125160989+emajiid@users.noreply.github.com>
+Date:   Thu Sep 26 18:26:24 2024 -0600
+
+    Create Circle.java
+    
+    created circle class
+
+[33mcommit 858bf5d418d60db0f1e26b8367586a6178357006[m[33m ([m[1;32mmain[m[33m)[m
+Author: Kyle Campbell <kmcampb1@ualberta.ca>
+Date:   Thu Sep 26 18:18:46 2024 -0600
+
+    added shape class (attempt 3)
+
+[33mcommit 97821bed6d916e955c32b03c1f2f94a5a3d135e7[m
+Author: Kyle Campbell <kmcampb1@ualberta.ca>
+Date:   Thu Sep 26 18:08:04 2024 -0600
+
+    adding android studio project
+
+[33mcommit 5b019e5e5c459b9d1b29046305715d325b59c0e3[m
+Author: Kylemcamp <108697900+Kylemcamp@users.noreply.github.com>
+Date:   Thu Sep 26 17:57:59 2024 -0600
+
+    Initial commit
