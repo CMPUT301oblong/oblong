@@ -1,4 +1,4 @@
 package com.example.myapplication;
 
-public class Circle extends Shape{
+public class Triangle extends Shape{
 }
